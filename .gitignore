@@ -4,3 +4,4 @@ True.csv.zip
 Merged.csv
 .ipynb_checkpoints/
 venv/
+*.joblib
